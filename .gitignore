@@ -1,0 +1,8 @@
+./vscode
+*.class
+.DS_Store
+.vscode/
+progress.dat
+skipurl.dat
+visited.dat
+**.dat
